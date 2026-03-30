@@ -4,8 +4,7 @@
 ---
 
 ## 🖼️ System Architecture
-![Sentinel Architecture Diagram](https://r.jina.ai/i/9f9c7e87b707470697f3b79339e09d9b)
-
+![Sentinel Architecture Diagram](sentinel.png)
 > **Note to Judges:** The diagram above illustrates the end-to-end flow from data ingestion to autonomous action, highlighting the "Sentinel Brain" as the central reasoning engine.
 
 ---
